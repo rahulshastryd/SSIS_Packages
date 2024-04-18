@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/13/2024 8:32:32 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="BLRL-G208BY3"
+  DTS:CreatorName="BLRL-G208BY3\admin"
+  DTS:DTSID="{45D9395B-6034-42DB-958D-FD1A01C1B87B}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5397.1"
+  DTS:LocaleID="16393"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{534D5FB2-9187-4C00-AEBE-6F3EF59F31D6}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

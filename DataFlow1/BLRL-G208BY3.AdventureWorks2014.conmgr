@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="BLRL-G208BY3.AdventureWorks2014"
+  DTS:DTSID="{EEB95FB4-2889-4E45-AE59-7E413F185B21}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=BLRL-G208BY3;Initial Catalog=AdventureWorks2014;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-DataFlow1-{EEB95FB4-2889-4E45-AE59-7E413F185B21}BLRL-G208BY3.AdventureWorks2014;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
